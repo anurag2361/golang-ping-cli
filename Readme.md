@@ -1,6 +1,6 @@
-#golang-ping-cli
+# golang-ping-cli
 
-###How To Use
+### How To Use
 
 1. Clone the repository
 2. Change the directory to the cloned directory in terminal (on Linux)
